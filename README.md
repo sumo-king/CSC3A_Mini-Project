@@ -5,4 +5,5 @@ Blockchain Project
 ###Youtube link:
 https://youtu.be/MygAYGG-rtY
 
-
+###Project link:
+https://github.com/sumo-king/CSC3A_Mini-Project
